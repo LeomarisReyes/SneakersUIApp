@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{DE9F476D-6380-4DE7-BFC9-4F391C4A397A}|Default">
+  <MonoDevelop.Ide.ItemProperties.SneakersUIApp.Android PreferredExecutionTarget="Android.1115fba155480902" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SneakersUIApp.Android/MainActivity.cs">
+    <Files>
+      <File FileName="SneakersUIApp/Views/SneakersPage.xaml" Line="50" Column="112" />
+      <File FileName="SneakersUIApp/App.xaml.cs" Line="5" Column="5" />
+      <File FileName="SneakersUIApp/Models/Sneakers.cs" />
+      <File FileName="SneakersUIApp/Views/SneakerDetailPage.xaml" Line="72" Column="224" />
+      <File FileName="SneakersUIApp/Views/SneakerDetailPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SneakersUIApp/Models/SneakerColor.cs" />
+      <File FileName="SneakersUIApp/ViewModels/SneakersViewModel.cs" />
+      <File FileName="SneakersUIApp/Views/SneakersPage.xaml.cs" />
+      <File FileName="SneakersUIApp.iOS/Resources/Heart24.png" />
+      <File FileName="SneakersUIApp.iOS/Info.plist" />
+      <File FileName="SneakersUIApp.Android/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SneakersUIApp" expanded="True">
+            <Node name="SneakersUIApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="SneakerDetailPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="SneakersUIApp.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="SneakersUIApp.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SneakersUIApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.19246DB7-ED17-4769-94AD-22BF5FA8FA24" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
